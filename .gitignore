@@ -5,3 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/malieknews/highblog.git
 git push -u origin main
+
+Using your self-hosted runner
+# Use this YAML in your workflow file for each job
+runs-on: self-hosted
