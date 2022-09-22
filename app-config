@@ -1,0 +1,4 @@
+Configure
+# Create the runner and start the configuration experience
+$ ./config.sh --url https://github.com/malieknews/highblog --token AZAVEQUPUAHHUJC7RWXZQPLDFSC4W# Last step, run it!
+$ ./run.sh
